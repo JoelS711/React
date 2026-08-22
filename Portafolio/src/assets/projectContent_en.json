@@ -9,8 +9,8 @@
     ]
   },
   "presentation": {
-    "title": "Software Developer",
-    "description": "I turn ideas into attractive, highly functional digital products. I care about every detail of development, from architecture to the final interface, to deliver exceptional user experiences that stand out for their innovation and technical quality."
+    "title": "AI Engineer | Full-Stack Developer",
+    "description": "I transform business challenges into intelligent and scalable digital products. I specialize in integrating advanced Artificial Intelligence models with Full-Stack development, ensuring efficiency, innovation, and solid technical performance."
   },
   "button_cv": {
     "download_cv": "Download CV"
@@ -18,7 +18,7 @@
   "sections": {
     "about_me": {
       "title": "About Me",
-      "description": "I am a versatile software developer, passionate about turning complex challenges into high-impact technology solutions. I specialize in combining Full-Stack development with Cloud architectures and Artificial Intelligence to create scalable digital products. My focus is on delivering real value through innovation, clean code, and rapid adaptation to any technology.",
+      "description": "I am an AI Engineer and Full-Stack Developer focused on integrating Large Language Models (LLMs) and autonomous agents into real-world applications. Rather than just interacting with AI, I build the logic and technical architecture around it (RAG, MCP, n8n). Supported by a solid foundation in modern Full-Stack development (React, Python, Java) and Cloud services, I bridge the gap between cutting-edge AI tools and enterprise software.",
       "additionalInfo": {
         "1": "Versatile software developer with professional experience building Full-Stack applications, Cloud infrastructures, and integrating Artificial Intelligence solutions.",
         "2": "I stand out for my technical adaptability and creative problem-solving, always focusing on innovation and delivering real business value.",
@@ -31,8 +31,8 @@
         {
           "date": "March 2025 - Present",
           "company": "Ofi x Artefact",
-          "position": "Software Developer",
-          "description": "I develop cross-cutting technology solutions to address the company's critical challenges. My work ranges from building web/mobile applications to designing AWS infrastructures, with a focus on Artificial Intelligence implementation and corporate process automation."
+          "position": "Full-Stack & AI Engineer",
+          "description": "As part of the development team, my role has expanded beyond the Frontend to encompass the integration of intelligent systems into the company's core applications. I am responsible for building autonomous agents, RAG pipelines, and automating corporate workflows, ensuring these AI-driven solutions are securely integrated and directly optimize business operations."
         },
         {
           "date": "Feb 2023 - September 2024",

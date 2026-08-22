@@ -9,8 +9,8 @@
     ]
   },
   "presentation": {
-    "title": "Desenvolvedor de Software",
-    "description": "Transformo ideias em produtos digitais atrativos e altamente funcionais. Cuido de cada detalhe do desenvolvimento, desde a arquitetura até a interface final, para oferecer experiências de usuário excepcionais que se destacam pela inovação e qualidade técnica."
+    "title": "AI Engineer | Full-Stack Developer",
+    "description": "Transformo desafios de negócios em produtos digitais inteligentes e escaláveis. Sou especialista em integrar modelos avançados de Inteligência Artificial com desenvolvimento Full-Stack, garantindo eficiência, inovação e um desempenho técnico sólido."
   },
   "button_cv": {
     "download_cv": "Baixar CV"
@@ -18,7 +18,7 @@
   "sections": {
     "about_me": {
       "title": "Sobre mim",
-      "description": "Sou um desenvolvedor de software versátil, apaixonado por transformar desafios complexos em soluções tecnológicas de alto impacto. Especializo-me em unir o desenvolvimento Full-Stack com arquiteturas Cloud e Inteligência Artificial para criar produtos digitais escaláveis. Meu foco é agregar valor real por meio da inovação, código limpo e uma rápida adaptação a qualquer tecnologia.",
+      "description": "Sou um AI Engineer e Desenvolvedor Full-Stack focado na integração de Modelos de Linguagem (LLMs) e agentes autônomos em aplicações reais. Mais do que apenas interagir com IA, dedico-me a construir a lógica e os sistemas ao seu redor (RAG, MCP, n8n). Apoiado por uma base sólida de desenvolvimento Full-Stack moderno (React, Python, Java) e serviços em Cloud, construo a ponte entre ferramentas de IA de ponta e o software corporativo.",
       "additionalInfo": {
         "1": "Desenvolvedor de software versátil com experiência profissional construindo aplicações Full-Stack, infraestruturas Cloud e integrando soluções de Inteligência Artificial.",
         "2": "Destaco-me pela capacidade de adaptação técnica e resolução criativa de problemas, focando sempre na inovação e em agregar valor real ao negócio.",
@@ -31,8 +31,8 @@
         {
           "date": "Março 2025 - Atual",
           "company": "Ofi x Artefact",
-          "position": "Desenvolvedor de Software",
-          "description": "Desenvolvo soluções tecnológicas transversais para resolver os desafios críticos da companhia. Meu trabalho abrange desde a criação de aplicações web/móveis até o design de infraestruturas na AWS, destacando a implementação de Inteligência Artificial e a automação de processos corporativos."
+          "position": "Full-Stack & AI Engineer",
+          "description": "Como parte da equipe de desenvolvimento, meu papel se expandiu além do Frontend para abranger a integração de sistemas inteligentes nos aplicativos da empresa. Sou responsável por construir agentes autônomos, pipelines RAG e automatizar fluxos corporativos, garantindo que essas soluções baseadas em IA sejam integradas de forma segura e otimizem diretamente as operações do negócio."
         },
         {
           "date": "Fev 2023 - Setembro 2024",
